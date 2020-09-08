@@ -6,7 +6,7 @@ print('Do you make a salary or a wage?')
 # take input options
 var = int(input('Press (1) for wage\nPress (2) for salary\n'))
 
-# methode to make sure input is valid
+# method to make sure input is valid
 
 def getFloat(prompt):
     # start with while loop, contents must be true to loop
