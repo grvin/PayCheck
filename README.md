@@ -1,1 +1,1 @@
-# PayCheck
+# Program designed to calculate paycheck values based on salary, wage, and tax filling status
